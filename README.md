@@ -2,6 +2,10 @@
 
 (c) Charlie Martínez – Quirinux GNU/Linux, GPLv2  
 
+![quirinux-youdown](https://github.com/user-attachments/assets/748d7b31-fbc5-48fc-b232-52caae275de3)
+
+![Contributors](https://img.shields.io/github/contributors/quirinux-so/quirinux-youdown) ![Stars](https://img.shields.io/github/stars/quirinux-so/quirinux-youdown) ![Forks](https://img.shields.io/github/forks/quirinux-so/quirinux-youdown) ![Issues](https://img.shields.io/github/issues/quirinux-so/quirinux-youdown) ![Last Commit](https://img.shields.io/github/last-commit/quirinux-so/quirinux-youdown)  ![Repo Size](https://img.shields.io/github/repo-size/quirinux-so/quirinux-youdown) ![Lenguaje](https://img.shields.io/badge/Lenguaje-Gambas-blue)
+
 ## 🇪🇸 Español  
 Una sencilla aplicación gráfica y multilingüe para descargar videos de YouTube en formato **MP4 (video)** o **MP3 (audio)**.  
 Desarrollada en **Python 3** con **Tkinter**, y utilizando **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** como motor de descarga.
@@ -20,7 +24,7 @@ Desarrollada en **Python 3** con **Tkinter**, y utilizando **[yt-dlp](https://gi
 🔧 Requisitos:
 
 ```bash
-sudo apt install python3-tk ffmpeg
+sudo apt install python3 python3-tk ffmpeg yt-dlp
 ```
 
 📦 yt-dlp en Debian/Ubuntu:  
