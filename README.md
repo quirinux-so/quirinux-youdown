@@ -2,7 +2,7 @@
 
 (c) Charlie Martínez – Quirinux GNU/Linux, GPLv2  
 
-![quirinux-youdown](https://github.com/user-attachments/assets/748d7b31-fbc5-48fc-b232-52caae275de3)
+![quirinux-youdown](https://github.com/user-attachments/assets/348b2647-5b2e-4eb2-a5ba-8954c54221c7)
 
 ![Contributors](https://img.shields.io/github/contributors/quirinux-so/quirinux-youdown) ![Stars](https://img.shields.io/github/stars/quirinux-so/quirinux-youdown) ![Forks](https://img.shields.io/github/forks/quirinux-so/quirinux-youdown) ![Issues](https://img.shields.io/github/issues/quirinux-so/quirinux-youdown) ![Last Commit](https://img.shields.io/github/last-commit/quirinux-so/quirinux-youdown)  ![Repo Size](https://img.shields.io/github/repo-size/quirinux-so/quirinux-youdown) ![Lenguaje](https://img.shields.io/badge/Lenguaje-Gambas-blue)
 
