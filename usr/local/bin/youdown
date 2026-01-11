@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# ======================================================================
+# File:        youdown
+# Author:      Charlie Martínez® <cmartinez@quirinux.org>
+# License:     https://www.gnu.org/licenses/gpl-2.0.txt
+# Purpose:     Lanzador para youdown.py
+# Distro:      Quirinux 2.0, Debian Bookworm, Devuan Daedalus y derivadas
+# ======================================================================
+
+#
+# Copyright (c) 2019-2025 Charlie Martínez. All Rights Reserved.  
+# License: https://www.gnu.org/licenses/gpl-2.0.txt  
+# Authorized and unauthorized uses of the Quirinux trademark:  
+# See https://www.quirinux.org/aviso-legal  
+#
+
+python3 /opt/quirinux-youdown/youdown.py
+

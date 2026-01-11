@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=YouDown!
+
+Comment=Descargar videos y mp3 desde Youtube
+Comment[es]=Descargar videos y mp3 desde Youtube
+Comment[en]=Download videos and MP3s from YouTube
+Comment[de]=YouTube-Videos und MP3s herunterladen
+Comment[fr]=Télécharger des vidéos et MP3 depuis YouTube
+Comment[it]=Scarica video e MP3 da YouTube
+Comment[pt]=Baixar vídeos e MP3 do YouTube
+Comment[gl]=Descargar vídeos e MP3 de YouTube
+
+Exec=youdown
+Icon=youdown.png
+Terminal=false
+Categories=AudioVideo;Video;
+StartupNotify=true
